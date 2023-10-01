@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Govind Chaudhary</h1>
 <h3 align="center">A passionate Open-Source contributor from India</h3>
-‹img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **Pro Planet Person App**
+- 🔭 I’m currently working on **Pro Planet Person App(For Ministry Of Environment )**
 
-- 📫 How to reach me **gs9012406068@gmail.com**
+- 📫 How to reach me : **gs9012406068@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
