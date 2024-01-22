@@ -5,7 +5,7 @@
 
 - 📫 How to reach me : **gs9012406068@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a></h3>
 <p align="left">
 </p>
 
