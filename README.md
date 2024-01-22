@@ -5,7 +5,7 @@
 
 - 📫 How to reach me : **gs9012406068@gmail.com**
 
-<h3 align="left">Connect with me:  <a href="https://leetcode.com/Govind_Chaudhary/">LeetCode</a>       <a href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a></h3>
+<h3 align="left">Connect with me:  <a href="https://leetcode.com/Govind_Chaudhary/" target="_blank">LeetCode</a>       <a href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a></h3>
 <p align="left">
 </p>
 
