@@ -4,11 +4,13 @@
 - 🔭 I’m currently working on **College Date App(It will be Launched Very Soon)**
 
 - 📫 How to reach me : **gs9012406068@gmail.com** , **DM on LinkedIn**
+- 
 
  <h2 align="center"> Tech I have Mastered : </h2>
-- **JavaScript**  **ReactJS**  **HTML**  **TailwindCSS**  **Node**
-- **Java**  **Spring Boot**  **Microservices**  **Rest API**  **OOPs**
-- **MySQL**  **Hibernate**
+ 
+- **[JavaScript]**  **[ReactJS]**  **[HTML]**  **[TailwindCSS]**  **[Node]**
+- **[Java]**  **[Spring Boot]**  **[Microservices]**  **[Rest API]**  **[OOPs]**
+- **[MySQL]**  **[Hibernate]**
 
 <h3 align="left">Connect with me:   <br>  - <a target="_blank" href="https://twitter.com/__Govind__0">Twitter </a>  <br> - <a target="_blank" href="https://www.linkedin.com/in/govind-chaudhary-057770189/">LinkedIn </a>  <br>  - <a target="_blank" href="https://leetcode.com/Govind_Chaudhary/">LeetCode</a>   <br>   -  <a target="_blank" href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a></h3>
 <p align="left">
