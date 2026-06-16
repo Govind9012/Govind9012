@@ -2,16 +2,25 @@
 <h3 align="center">A passionate Software Developer from Greater Noida India</h3>
 
 - 🔭 I’m currently working on **College Date App(It will be Launched Very Soon)**
+
+- Visit : https://flight-management-system-three.vercel.app/
 - Visit : https://college-date.vercel.app/
 - Visit : https://govindchaudhary.dev/
 
-- 📫 How to reach me : **gs9012406068@gmail.com** , **DM on LinkedIn**
+- 📫 How to reach me : **govind.chdhry@gmail.com**
+- 📫 How to reach me : **gs9012406068@gmail.com**
 
  <h2 align="center"> Tech I have Mastered : </h2>
  
-- **[JavaScript]**  **[ReactJS]**  **[HTML]**  **[TailwindCSS]**  **[Node]**
-- **[Java]**  **[Spring Boot]**  **[Microservices]**  **[Rest API]**  **[OOPs]**
-- **[MySQL]**  **[Hibernate]**
+- **[Java]** • **[Spring Boot]** • **[Spring Security]** • **[Microservices]**
+- **[REST APIs]** • **[JWT]** • **[RBAC]** • **[MVC Architecture]**
+- **[ReactJS]** • **[Redux Toolkit]** • **[JavaScript]** • **[HTML5]** • **[CSS3]**
+- **[SQL Server]** • **[Oracle DB]** • **[MySQL]** • **[Redis]** • **[Hibernate/JPA]**
+- **[Docker]** • **[Git]** • **[GitHub]** • **[CI/CD]**
+- **[System Design]** • **[Load Balancer]** • **[API Gateway]** • **[Caching]**
+- **[Query Optimization]** • **[Performance Tuning]** • **[Scalability]**
+- **[Generative AI]** • **[LLM Integration]** • **[Prompt Engineering]**
+- **[LangChain]** • **[RAG]** • **[Vector Search]** • **[AI Agents]**
 
 <h3 align="left">Connect with me:   <br>  - <a target="_blank" href="https://twitter.com/__Govind__0">Twitter </a>  <br> - <a target="_blank" href="https://www.linkedin.com/in/govind-chaudhary-057770189/">LinkedIn </a>  <br>  - <a target="_blank" href="https://leetcode.com/Govind_Chaudhary/">LeetCode</a>   <br>   -  <a target="_blank" href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a></h3>
 <p align="left">
