@@ -22,8 +22,9 @@
 - **[Generative AI]** • **[LLM Integration]** • **[Prompt Engineering]**
 - **[LangChain]** • **[RAG]** • **[Vector Search]** • **[AI Agents]**
 
-<h3 align="left">Connect with me:   <br>  - <a target="_blank" href="https://twitter.com/__Govind__0">Twitter </a>  <br> - <a target="_blank" href="https://www.linkedin.com/in/govind-chaudhary-057770189/">LinkedIn </a>  <br>  - <a target="_blank" href="https://leetcode.com/Govind_Chaudhary/">LeetCode</a>   <br>   -  <a target="_blank" href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a>
-- <a target="_blank" href="https://leetcode.com/u/GovindChaudhary/">LeetCode</a>
+<h3 align="left">Connect with me:   <br>  - <a target="_blank" href="https://twitter.com/__Govind__0">Twitter </a>  <br> - <a target="_blank" href="https://www.linkedin.com/in/govind-chaudhary-057770189/">LinkedIn </a>  <br>  - <a target="_blank" href="https://leetcode.com/Govind_Chaudhary/">LeetCode</a>
+ <br> - <a target="_blank" href="https://leetcode.com/u/GovindChaudhary/">LeetCode</a>
+ <br>   -  <a target="_blank" href="https://www.hackerrank.com/profile/gs9012406068">HackerRank</a>
 </h3>
 <p align="left">
 </p>
